@@ -5,6 +5,9 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/consul/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-consul-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-consul-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin-server/pom.xml" />
       </list>
     </option>
   </component>
