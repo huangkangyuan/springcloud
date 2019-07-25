@@ -101,6 +101,5 @@ public class JinSePressResult {
 		public void setTopicUrl(String topicUrl) {
 			this.topicUrl = topicUrl;
 		}
-
     }
 }
