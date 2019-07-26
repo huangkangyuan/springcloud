@@ -19,7 +19,7 @@ public class ImageDemo2 {
             Element body = doc.body();
             Elements elements = body.select("img");
 
-            String outputFilePath = "C:\\Users\\Administrator\\Pictures\\Saved Pictures";
+            String outputFilePath = "C:\\Users\\Administrator\\Pictures\\Saved Pictures\\";
             String src = "";
             HttpURLConnection conn = null;
             InputStream inStream = null;
